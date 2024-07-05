@@ -65,3 +65,6 @@ That's it! Your React TypeScript project is now deployed to both Netlify and Git
 Remember to update the repository URL and your username in the instructions above to match your specific project and GitHub account.
 
 Happy coding and deployment!
+
+## Demo:
+<a href="https://gloceryshop.netlify.app/">Click this link to see demo</a>
